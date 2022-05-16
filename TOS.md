@@ -1,4 +1,4 @@
-# Qeo Terms of Service 
+# Nyx Terms of Service 
 
 Nyx is a Discord bot that plays music on a voice channel in your server. It also has other side commands and is planning on having more commands!
 Unlike Qeo, Nyx barely store any information to its database.
