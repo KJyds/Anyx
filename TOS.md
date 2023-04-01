@@ -7,7 +7,7 @@ Anyx temporarily collects and uses user and server data to function properly. Th
 - When you have given us explicit permission to do so
 Anyx temporarily collects and uses user and server data to function properly. This data is not permanent and is only used to provide the requested service.
 
-Anyx stores user messages temporarily for the use of the "n.snipe" command. This data is not accessible to anyone other than the bot, unless the "n.snipe" command is used.
+The user message data collected by Anyx for the 'n.snipe' command is kept confidential and secure, and can only be accessed by the bot. This data is not shared with anyone, including the bot owner, unless the 'n.snipe' command is used.
 By using Anyx, you acknowledge that Anyx may collect and use the following data:
 - Discord user ID
 - Discord server ID
