@@ -3,15 +3,14 @@ We appreciate you choosing Anyx! By using Anyx, you agree to be bound by these t
 
 ## Introduction
 Anyx is a Discord bot that plays music on a voice channel in your server. It also has other side commands and is planning on having more commands! 
-Anyx respects your privacy and are committed to protecting your personal information.
+Anyx respects your privacy and is committed to protecting your personal information.
 
 ## User Data Collection and Use
 Anyx temporarily collects and uses user and server data to function properly. This data is not permanently stored and is only used for the duration of your session. We respect your privacy and will not share your data with any third party, except in the following case(s):
 - When you have given us explicit permission to do so
 - When required by law or to respond to a valid legal request, including from government or law enforcement agencies
-Anyx temporarily collects and uses user and server data to function properly. This data is not permanent and is only used to provide the requested service.
 
-The user message data collected by Anyx for the 'n.snipe' command is kept confidential and secure, and can only be accessed by Anyx. This data is not shared with anyone, including Anyx's owner, unless the 'n.snipe' command is used.
+The user message data collected by Anyx for the 'n.snipe' command is kept confidential and secure, and can only be accessed by trusted people with administrator permission in the server. This data is not shared with anyone, including Anyx's owner, unless the 'n.snipe' command is used.
 By using Anyx, you acknowledge that Anyx may collect and use the following data:
 - Discord user ID
 - Discord server ID
