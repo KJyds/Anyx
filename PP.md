@@ -9,7 +9,7 @@ When you invite Anyx to your server, Anyx may collect the following information:
 - Discord server ID
 - Server chat messages (temporarily)
 
-Anyx stores user messages temporarily for the use of the "n.snipe" command. Only the bot can access this data, and it is not shared with anyone else, including the bot owner, unless the 'n.snipe' command is used.
+Anyx stores user messages temporarily for the use of the "n.snipe" command. Only trusted people with administrator permission in the server can use this command and it is not shared with anyone else, including the Anyx's owner, unless the 'n.snipe' command is used. 
 
 ## Use of Information
 Anyx will use the collected information solely for the purpose of providing its services. Anyx will not sell, share or distribute this information to any third-party without the user's consent, except as required by law.
