@@ -10,11 +10,9 @@ Anyx temporarily collects and uses user and server data to function properly. Th
 - When you have given us explicit permission to do so
 - When required by law or to respond to a valid legal request, including from government or law enforcement agencies
 
-The user message data collected by Anyx for the 'n.snipe' command is kept confidential and secure, and can only be accessed by trusted people with administrator permission in the server. This data is not shared with anyone, including Anyx's owner, unless the 'n.snipe' command is used.
 By using Anyx, you acknowledge that Anyx may collect and use the following data:
 - Discord user ID
 - Discord server ID
-- Chat messages (temporarily)
 
 ## Use of Data
 Anyx will only use the collected data for the purpose of providing its services. Anyx will not sell, share or distribute this data to any third-party without the user's consent, except as required by law.
